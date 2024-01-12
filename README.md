@@ -1,4 +1,4 @@
-# FoDL
+# Fundamentals of Deep Learning
 Implementation of different Deep Learning Models
 
 Update Coming Soon
